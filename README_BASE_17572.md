@@ -1,9 +1,10 @@
 # git-demo
 sample repository for a tutorial
 <<<<<<< HEAD
-
-TEST ANBU MASTER
+new line :D
 =======
-<<<<<<< HEAD
-MERGE
+
+
+
+test anbu
 >>>>>>> f_x
